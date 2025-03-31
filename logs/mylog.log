@@ -1,0 +1,348 @@
+[INFO ] 2025-03-31 15:26:43.785 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 15:26:43.785 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 15:26:43.900 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 15:26:43.900 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 15:26:45.223 [main] StepDef - URL Open
+[INFO ] 2025-03-31 15:26:45.223 [main] StepDef - URL Open
+[INFO ] 2025-03-31 15:26:45.748 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 15:26:45.748 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 15:26:45.994 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 15:26:45.994 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 15:26:46.086 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 15:26:46.086 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 15:26:46.340 [main] StepDef - Clicked on filter buttons
+[INFO ] 2025-03-31 15:26:46.340 [main] StepDef - Clicked on filter buttons
+[INFO ] 2025-03-31 15:26:46.878 [main] StepDef - Remove:Replaced  Button
+[INFO ] 2025-03-31 15:26:46.878 [main] StepDef - Remove:Replaced  Button
+[INFO ] 2025-03-31 15:26:49.952 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 15:26:49.952 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 15:26:49.957 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 15:26:49.957 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 15:26:51.125 [main] StepDef - URL Open
+[INFO ] 2025-03-31 15:26:51.125 [main] StepDef - URL Open
+[INFO ] 2025-03-31 15:26:51.720 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 15:26:51.720 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 15:26:51.990 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 15:26:51.990 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 15:26:52.084 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 15:26:52.084 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 15:26:55.738 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 15:26:55.738 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 15:26:55.740 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 15:26:55.740 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 15:26:55.989 [main] StepDef - URL Open
+[INFO ] 2025-03-31 15:26:55.989 [main] StepDef - URL Open
+[INFO ] 2025-03-31 15:26:57.053 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 15:26:57.053 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 15:26:57.392 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 15:26:57.392 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 15:26:57.489 [main] StepDef - Title not Matched
+[INFO ] 2025-03-31 15:26:57.489 [main] StepDef - Title not Matched
+[INFO ] 2025-03-31 15:27:01.373 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 15:27:01.383 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 15:27:02.537 [main] StepDef - URL Open
+[INFO ] 2025-03-31 15:27:02.885 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 15:27:03.067 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 15:27:03.161 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 15:27:06.370 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 15:27:06.373 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 15:27:07.550 [main] StepDef - URL Open
+[INFO ] 2025-03-31 15:27:07.945 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 15:27:08.142 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 15:27:08.264 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 15:27:11.424 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 15:27:11.433 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 15:27:12.332 [main] StepDef - URL Open
+[INFO ] 2025-03-31 15:27:12.695 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 15:27:12.856 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 15:27:12.956 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:14:59.474 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:14:59.474 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:14:59.580 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:14:59.580 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:15:02.005 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:15:02.005 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:15:02.572 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:15:02.572 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:15:03.419 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:15:03.419 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:15:03.897 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:15:03.897 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:15:04.258 [main] StepDef - Clicked on filter buttons
+[INFO ] 2025-03-31 17:15:04.258 [main] StepDef - Clicked on filter buttons
+[INFO ] 2025-03-31 17:15:06.493 [main] StepDef - Remove:Replaced  Button
+[INFO ] 2025-03-31 17:15:06.493 [main] StepDef - Remove:Replaced  Button
+[INFO ] 2025-03-31 17:15:12.320 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:15:12.320 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:15:12.325 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:15:12.325 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:15:13.561 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:15:13.561 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:15:14.336 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:15:14.336 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:15:14.700 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:15:14.700 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:15:15.112 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:15:15.112 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:15:21.505 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:15:21.505 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:15:21.525 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:15:21.525 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:15:22.223 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:15:22.223 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:15:23.673 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:15:23.673 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:15:24.121 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:15:24.121 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:15:24.541 [main] StepDef - Title not Matched
+[INFO ] 2025-03-31 17:15:24.541 [main] StepDef - Title not Matched
+[INFO ] 2025-03-31 17:15:31.056 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:15:31.059 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:15:31.554 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:15:32.999 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:15:33.442 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:15:33.767 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:15:39.007 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:15:39.012 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:15:40.185 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:15:40.802 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:15:41.181 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:15:41.443 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:15:46.600 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:15:46.603 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:15:47.814 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:15:48.392 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:15:48.717 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:15:48.947 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:17:52.312 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:17:52.312 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:17:52.411 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:17:52.411 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:17:53.462 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:17:53.462 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:17:54.025 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:17:54.025 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:17:54.512 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:17:54.512 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:17:55.098 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:17:55.098 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:17:55.485 [main] StepDef - Clicked on filter buttons
+[INFO ] 2025-03-31 17:17:55.485 [main] StepDef - Clicked on filter buttons
+[INFO ] 2025-03-31 17:17:57.355 [main] StepDef - Remove:Replaced  Button
+[INFO ] 2025-03-31 17:17:57.355 [main] StepDef - Remove:Replaced  Button
+[INFO ] 2025-03-31 17:18:03.083 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:18:03.083 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:18:03.090 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:18:03.090 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:18:03.690 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:18:03.690 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:18:04.911 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:18:04.911 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:18:05.287 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:18:05.287 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:18:05.723 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:18:05.723 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:18:11.201 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:18:11.201 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:18:11.213 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:18:11.213 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:18:12.347 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:18:12.347 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:18:12.906 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:18:12.906 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:18:13.345 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:18:13.345 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:18:13.753 [main] StepDef - Title not Matched
+[INFO ] 2025-03-31 17:18:13.753 [main] StepDef - Title not Matched
+[INFO ] 2025-03-31 17:18:19.236 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:18:19.239 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:18:20.524 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:18:21.183 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:18:21.592 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:18:21.903 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:18:27.154 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:18:27.161 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:18:28.322 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:18:29.087 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:18:29.468 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:18:29.702 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:18:34.580 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:18:34.586 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:18:36.320 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:18:36.928 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:18:37.255 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:18:37.494 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:23:54.630 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:23:54.630 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:23:54.726 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:23:54.726 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:23:55.652 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:23:55.652 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:23:56.179 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:23:56.179 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:23:56.515 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:23:56.515 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:23:56.628 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:23:56.628 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:23:56.801 [main] StepDef - Clicked on filter buttons
+[INFO ] 2025-03-31 17:23:56.801 [main] StepDef - Clicked on filter buttons
+[INFO ] 2025-03-31 17:23:57.274 [main] StepDef - Remove:Replaced  Button
+[INFO ] 2025-03-31 17:23:57.274 [main] StepDef - Remove:Replaced  Button
+[INFO ] 2025-03-31 17:24:02.233 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:24:02.233 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:24:02.243 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:24:02.243 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:24:03.206 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:24:03.206 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:24:03.573 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:24:03.573 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:24:03.789 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:24:03.789 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:24:03.899 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:24:03.899 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:24:08.873 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:24:08.873 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:24:08.878 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:24:08.878 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:24:09.868 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:24:09.868 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:24:10.334 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:24:10.334 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:24:10.523 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:24:10.523 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:24:10.543 [main] StepDef - Title not Matched
+[INFO ] 2025-03-31 17:24:10.543 [main] StepDef - Title not Matched
+[INFO ] 2025-03-31 17:24:26.834 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:24:26.842 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:24:27.860 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:24:28.280 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:24:28.485 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:24:28.600 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:24:33.936 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:24:33.945 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:24:34.842 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:24:35.196 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:24:35.366 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:24:35.479 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:24:40.583 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:24:40.586 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:24:41.515 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:24:41.992 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:24:42.205 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:24:42.314 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:30:42.505 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:30:42.505 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:30:42.604 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:30:42.604 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:30:43.479 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:30:43.479 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:30:43.828 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:30:43.828 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:30:44.023 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:30:44.023 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:30:44.095 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:30:44.095 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:30:44.263 [main] StepDef - Clicked on filter buttons
+[INFO ] 2025-03-31 17:30:44.263 [main] StepDef - Clicked on filter buttons
+[INFO ] 2025-03-31 17:30:44.753 [main] StepDef - Remove:Replaced  Button
+[INFO ] 2025-03-31 17:30:44.753 [main] StepDef - Remove:Replaced  Button
+[INFO ] 2025-03-31 17:30:49.411 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:30:49.411 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:30:49.416 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:30:49.416 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:30:50.240 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:30:50.240 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:30:50.607 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:30:50.607 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:30:50.788 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:30:50.788 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:30:50.852 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:30:50.852 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:30:55.307 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:30:55.307 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:30:55.311 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:30:55.311 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:30:56.089 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:30:56.089 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:30:56.374 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:30:56.374 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:30:56.623 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:30:56.623 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:30:56.643 [main] StepDef - Title not Matched
+[INFO ] 2025-03-31 17:30:56.643 [main] StepDef - Title not Matched
+[INFO ] 2025-03-31 17:31:01.375 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:31:01.377 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:31:02.431 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:31:02.798 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:31:02.945 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:31:03.026 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:31:07.658 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:31:07.664 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:31:08.625 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:31:09.047 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:31:09.280 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:31:09.459 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:31:14.260 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:31:14.263 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:31:15.213 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:31:15.571 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:31:15.732 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:31:15.814 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:49:55.667 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:49:55.667 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:49:55.745 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:49:55.745 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:49:56.685 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:49:56.685 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:49:57.048 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:49:57.048 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:49:57.241 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:49:57.241 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:49:57.372 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:49:57.372 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:49:57.545 [main] StepDef - Clicked on filter buttons
+[INFO ] 2025-03-31 17:49:57.545 [main] StepDef - Clicked on filter buttons
+[INFO ] 2025-03-31 17:49:58.014 [main] StepDef - Remove:Replaced  Button
+[INFO ] 2025-03-31 17:49:58.014 [main] StepDef - Remove:Replaced  Button
+[INFO ] 2025-03-31 17:50:04.175 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:50:04.175 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:50:04.178 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:50:04.178 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:50:05.828 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:50:05.828 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:50:07.174 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:50:07.174 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:50:07.563 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:50:07.563 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:50:07.683 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:50:07.683 [main] StepDef - Title Matched.
+[INFO ] 2025-03-31 17:50:14.832 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:50:14.832 [main] StepDef - setup 2: Regression Test Executed.
+[INFO ] 2025-03-31 17:50:14.836 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:50:14.836 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:50:15.822 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:50:15.822 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:50:16.275 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:50:16.275 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:50:16.692 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:50:16.692 [main] StepDef - loggin button clicked.
+[INFO ] 2025-03-31 17:50:16.710 [main] StepDef - Title not Matched
+[INFO ] 2025-03-31 17:50:16.710 [main] StepDef - Title not Matched
+[INFO ] 2025-03-31 17:50:22.301 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:50:22.305 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:50:23.156 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:50:23.549 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:50:23.716 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:50:23.794 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:50:34.366 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:50:34.370 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:50:35.225 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:50:35.564 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:50:35.716 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:50:35.793 [main] StepDef - Error Message not validated.
+[INFO ] 2025-03-31 17:50:40.592 [main] StepDef - setup 1: Sanity Test Executed.
+[INFO ] 2025-03-31 17:50:40.594 [main] StepDef - launched browser successfully.
+[INFO ] 2025-03-31 17:50:41.569 [main] StepDef - URL Open
+[INFO ] 2025-03-31 17:50:42.007 [main] StepDef - Entered Username and password
+[INFO ] 2025-03-31 17:50:42.227 [main] StepDef - loggin button clicked.
+[WARN ] 2025-03-31 17:50:42.376 [main] StepDef - Error Message not validated.

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Report Title -->
+        <reportName>Cucumber Test Report</reportName>
+
+        <!-- Report Document Title -->
+        <documentTitle>Cucumber Execution Report</documentTitle>
+
+        <!-- Report Theme (standard or dark) -->
+        <theme>standard</theme>
+
+        <!-- Encoding Format -->
+        <encoding>UTF-8</encoding>
+
+        <!-- Report Timestamp Format -->
+        <timeStampFormat>yyyy-MM-dd HH:mm:ss</timeStampFormat>
+
+        <!-- Enable Category View -->
+        <enableCategoryView>true</enableCategoryView>
+
+        <!-- Enable Dashboard View -->
+        <enableDashboardView>true</enableDashboardView>
+
+        <!-- Report Location -->
+        <reportPath>target/ExtentReports/SparkReport.html</reportPath>
+
+        <!-- Log Status Colors -->
+        <statusColors>
+            <pass>#28a745</pass>
+            <fail>#dc3545</fail>
+            <skip>#ffc107</skip>
+        </statusColors>
+        </configuration>
+        </extentreports>
